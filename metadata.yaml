@@ -1,0 +1,41 @@
+_repo: Kuningastarinoita_53282
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+creator:
+  author:
+    agent_name: Snorri Sturluson
+    aliases:
+    - Sturleson, Snorro
+    - Sturluson, Snorri
+    - Sturlason, Snorre
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+description: Translations of selected sagas from the Heimskringla.
+gutenberg_issued: '2016-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53282'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- History'
+- !lcsh 'Iceland -- History'
+- !lcc 'PT'
+- !lcsh 'Sagas -- Translations into Finnish'
+- !lcsh 'Scandinavia -- History'
+- GITenberg
+tableOfContents: 'Johdanto: Katsaus Norjan kansan vanhimpaan historiaan. Snorre Sturluson
+  ja hänen teoksensa -- Harald Kaunotukan tarina -- Haakon Hyvän tarina -- Eirikinpoikain
+  tarina -- Haakon jaarlin tarina -- Olavi Trygvenpojan tarina -- Viiteselitykset.'
+title: Kuningastarinoita
+url: http://www.gutenberg.org/ebooks/53282
